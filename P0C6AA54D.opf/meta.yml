@@ -26,3 +26,8 @@ source_metadata:
   reproductionOf: []
 created_at: '2021-12-31T08:20:59.851277'
 last_modified_at: '2021-12-31T08:20:59.851284'
+statistics:
+  total_words: 94383
+  total_non_words: 10070
+quality:
+  non_words_ratio: 0.11
